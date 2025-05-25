@@ -10,13 +10,13 @@ My main goal is to become a full-stack developer and master React, Node.js, and 
 
 ### 🛠️ Skills
 
+- Html
+- Css
 - JavaScript
 - React
 - Node.js
 - UI/UX Design
-- Next.js
 - React Native
-- Flutter (currently learning)
 
 ### 💻 Projects
 
