@@ -48,9 +48,14 @@
 ---
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YourUsername&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&theme=tokyonight&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Hossein&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hossein&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossein&theme=tokyonight&hide_border=false&layout=compact)
+
+---
+
+### 🟩 GitHub Activity Graph (همون جدول سبزها)
+[![Hossein's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hossein&theme=react-dark&hide_border=true)](https://github.com/Hossein)
 
 ---
 
