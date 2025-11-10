@@ -54,7 +54,7 @@
 
 ---
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hossein-aghili&theme=github-compact)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hossein-aghili&theme=github)
 ---
 
 ### ⚡ Quote:
