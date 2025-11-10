@@ -54,9 +54,7 @@
 
 ---
 
-### 🟩 GitHub Activity Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hossein-aghili&theme=react-dark&hide_border=true)](https://github.com/Hossein-aghili)
-
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hossein-aghili&theme=github-compact)
 ---
 
 ### ⚡ Quote:
