@@ -142,13 +142,6 @@ Full-Stack
 
 ---
 
-📈 GitHub Contribution
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hossein-aghili&theme=tokyonight" />
-
-</div>
 
 ---
 
