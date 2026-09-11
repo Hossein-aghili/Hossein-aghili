@@ -136,15 +136,15 @@ Full-Stack
 
 <div align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=Hossein-aghili&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hossein-aghili&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /></div><br/><div align="center"><img src="https://streak-stats.demolab.com/?user=Hossein-aghili&theme=tokyonight&hide_border=true" /></div><br/><div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hossein-aghili&theme=tokyonight" /></div><br/><div align="center"><img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hossein-aghili&theme=tokyonight&utcOffset=3" /><img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hossein-aghili&theme=tokyonight" /></div>---
 
-🐍 Contribution Snake
+🐍 Contribution Activity
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hossein-aghili/Hossein-aghili/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hossein-aghili/Hossein-aghili/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Hossein-aghili/Hossein-aghili/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</picture>
-</div>---
+  <img
+    src="https://ghchart.xqsit94.in/dark:default/Hossein-aghili"
+    alt="GitHub Contribution Chart"
+    width="900"
+  />
+</div>
 ---
 
 
