@@ -1,67 +1,161 @@
-<h1 align="center">Hi 👋, I'm Hossein</h1>
-<h3 align="center">19 y/o Full-Stack Developer (MERN Stack)</h3>
+<div align="center">👋 Hey, I'm Hossein
 
-<p align="center">
-  Passionate developer who started coding at 16 and now builds modern full-stack applications.<br/>
-  Focused on creating scalable web apps with clean UI, strong backend architecture, and smooth UX.
-</p>
+Full-Stack Developer · MERN Stack
 
----
+Building modern web applications with React, Node.js, Express & MongoDB.
 
-### 🌐 Socials:
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YourTelegram)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YourInstagram)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedIn)
+I started coding at 17 and have been focused on turning ideas into real, scalable products ever since.
 
----
+<br/><a href="https://github.com/Hossein-aghili">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://t.me/YourTelegram">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://instagram.com/YourInstagram">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/YourLinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a><br/><br/>
 
-### 💻 Tech Stack:
+<img src="https://komarev.com/ghpvc/?username=Hossein-aghili&label=Profile%20Views&color=0e75b6&style=flat" /></div>---
 
-#### Frontend:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NextJS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+🚀 About Me
 
-#### Backend:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
+I'm a Full-Stack Developer focused on the MERN ecosystem.
+
+I enjoy building applications from the interface all the way to the backend — designing clean user experiences, building REST APIs, working with databases, and structuring applications for maintainability.
+
+What I care about
+
+- 🧩 Solving problems instead of just writing code
+- 🎨 Building clean and responsive interfaces
+- ⚙️ Designing structured backend systems
+- 🗄️ Working with databases and APIs
+- 🧠 Improving my programming fundamentals
+- 🚀 Turning ideas into real-world applications
 
 ---
 
-### 🧠 Skills & Focus:
-- Full-Stack Development (MERN)
-- UI/UX Design and Responsive Layouts
-- RESTful API Design
-- Scalable Backend Structure
-- Clean Code & Performance Optimization
+🛠️ Tech Stack
+
+Frontend
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</p>Backend
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>Tools & Design
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
+</p>---
+
+🔥 What I Build
+
+Frontend        → React · Redux · Responsive UI · Modern UX
+Backend         → Node.js · Express · REST APIs
+Database        → MongoDB · Mongoose
+Architecture    → Modular · Maintainable · Scalable
+Workflow        → Git · GitHub · Postman · VS Code · Cursor
 
 ---
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hossein-aghili&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hossein-aghili&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossein-aghili&theme=tokyonight&hide_border=false&layout=compact)
+💻 Featured Projects
+
+☕ MERN Coffee
+
+A full-stack coffee platform built with the MERN ecosystem.
+
+Stack: React · Node.js · Express · MongoDB · Mongoose · JWT · MUI
+
+🔗 "View Repository" (https://github.com/Hossein-aghili/mern-coffee)
 
 ---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hossein-aghili&theme=github)
+🛒 Calapedia
+
+A full-stack e-commerce platform focused on a modern shopping experience, product management and scalable application architecture.
+
+Stack: React · Node.js · Express · MongoDB
+
+🔗 Coming soon
+
 ---
 
-### ⚡ Quote:
-> *“Code. Learn. Build. Repeat.”*
+🧪 More Projects
+
+I'm continuously building smaller applications and experiments to strengthen my frontend, backend and problem-solving skills.
+
+👉 Check my repositories for the latest work.
+
+---
+
+📚 Currently Learning
+
+React
+  ├── Advanced component architecture
+  ├── State management
+  ├── Performance
+  └── Scalable project structure
+
+Node.js
+  ├── REST APIs
+  ├── Authentication
+  ├── Backend architecture
+  └── Database design
+
+Full-Stack
+  ├── Production-ready applications
+  ├── Clean architecture
+  └── Real-world problem solving
+
+---
+
+📊 GitHub Analytics
+
+<div align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=Hossein-aghili&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hossein-aghili&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /></div><br/><div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hossein-aghili&theme=tokyonight&hide_border=true" /></div>---
+
+🏆 GitHub Achievements
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Hossein-aghili&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" /></div>---
+
+📈 Contribution Activity
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Hossein-aghili&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" /></div>---
+
+🐍 Contribution Snake
+
+<div align="center"><img src="https://raw.githubusercontent.com/Hossein-aghili/Hossein-aghili/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /></div>---
+
+🎯 Current Focus
+
+«Building real projects, improving my problem-solving skills, and becoming a stronger Full-Stack Developer.»
+
+---
+
+<div align="center">Let's build something great. 🚀
+
+<br/>Code · Learn · Build · Improve
+
+</div>
