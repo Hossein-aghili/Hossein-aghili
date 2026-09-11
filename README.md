@@ -140,14 +140,30 @@ Full-Stack
 
 <div align="center"><img src="https://raw.githubusercontent.com/Hossein-aghili/Hossein-aghili/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /></div>---
 
+---
+
+📈 GitHub Contribution
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hossein-aghili&theme=tokyonight" />
+
+</div>
+
+---
+
 🎯 Current Focus
 
 «Building real projects, improving my problem-solving skills, and becoming a stronger Full-Stack Developer.»
 
 ---
 
-<div align="center">Let's build something great. 🚀
+<div align="center">
 
-<br/>Code · Learn · Build · Improve
+Let's build something great. 🚀
+
+<br/>
+
+Code · Learn · Build · Improve
 
 </div>
